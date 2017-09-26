@@ -1,7 +1,7 @@
 friendList = [
     {
-        "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Dawson",
+        "photo": "https://i.giphy.com/media/k61nOBRRBMxva/200_s.gif",
         "scores": [
             "5",
             "1",
@@ -16,8 +16,8 @@ friendList = [
         ]
     },
     {
-        "name": "Jacob Deming",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        "name": "Frowny Guy",
+        "photo": "https://bethargyropoulos.files.wordpress.com/2017/03/sad-face-e.jpg",
         "scores": [
             "4",
             "2",
@@ -32,8 +32,8 @@ friendList = [
         ]
     },
     {
-        "name": "Jeremiah Scanlon",
-        "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        "name": "Tears McGee",
+        "photo": "https://i.giphy.com/media/Hwq45iwTIUBGw/200_s.gif",
         "scores": [
             "5",
             "2",
@@ -48,8 +48,8 @@ friendList = [
         ]
     },
     {
-        "name": "Louis T. Delia",
-        "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+        "name": "Swinger Slowly",
+        "photo": "https://acculturated.com/wp-content/uploads/2016/04/Loneliness_blog_photo_3-13.jpg",
         "scores": [
             "3",
             "3",
@@ -80,8 +80,8 @@ friendList = [
         ]
     },
     {
-        "name": "Jordan Biason",
-        "photo": "https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/12741971_10205764267089153_4212986785721953092_n.jpg?oh=4e18265f7d380167223a97fbd7eba278&oe=57B78445",
+        "name": "Uni Corn",
+        "photo": "https://mlpforums.com/uploads/post_images/img-1217684-1-rainbow_dash_sadface_by_iks83-d4nw9vj.gif",
         "scores": [
             "4",
             "4",
@@ -93,70 +93,6 @@ friendList = [
             "2",
             "4",
             "5"
-        ]
-    },
-    {
-        "name": "yoyoma",
-        "photo": "https://res.cloudinary.com/lmn/image/upload/c_limit,h_360,w_640/e_sharpen:100/f_auto,fl_lossy,q_auto/v1/gameskinnyc/9/j/u/9juawao-33e57.jpg",
-        "scores": [
-            "4",
-            "5",
-            "1",
-            "2",
-            "2",
-            "3",
-            "3",
-            "2",
-            "2",
-            "2"
-        ]
-    },
-    {
-        "name": "April Ludgate",
-        "photo": "http://0.media.collegehumor.cvcdn.com/27/13/5c948297f52371f71f87872f1e763d5a-12-april-ludgate.jpg",
-        "scores": [
-            "5",
-            "4",
-            "1",
-            "1",
-            "1",
-            "5",
-            "4",
-            "3",
-            "1",
-            "1"
-        ]
-    },
-    {
-        "name": "Sam",
-        "photo": "https://stocksnap.io/photo/0D4A2BKXFH",
-        "scores": [
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1"
-        ]
-    },
-    {
-        "name": "shia",
-        "photo": "https://media.gq.com/photos/58488eaebe0abd2458a0d46f/master/w_4200/shia-labeouf-hair.jpg",
-        "scores": [
-            "3",
-            "3",
-            "3",
-            "3",
-            "3",
-            "3",
-            "3",
-            "3",
-            "3",
-            "3"
         ]
     }
 ]
